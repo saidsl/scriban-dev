@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a5OFVjsFOozCzfGIh+41KMHwQ+a0VSM5RtR6GMLFFTGcD0VcrNAjen4cfnPCXK3P0UPLObUwwmovKm8QJWbmfw==",
+  "success": true,
+  "projectFilePath": "/Users/saidsalameh/Developer/scriban-dev/scriban-dev.csproj",
+  "expectedPackageFiles": [
+    "/Users/saidsalameh/.nuget/packages/scriban/5.9.1/scriban.5.9.1.nupkg.sha512"
+  ],
+  "logs": []
+}

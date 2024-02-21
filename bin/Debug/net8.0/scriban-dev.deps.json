@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "scriban-dev/1.0.0": {
+        "dependencies": {
+          "Scriban": "5.9.1"
+        },
+        "runtime": {
+          "scriban-dev.dll": {}
+        }
+      },
+      "Scriban/5.9.1": {
+        "runtime": {
+          "lib/net7.0/Scriban.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.9.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "scriban-dev/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Scriban/5.9.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Er0jZCXrHXtk+nnzmHVEnmz1pjfU+VL3GppO0UjtCMoZ0Se1plyPe1OLb6gM7ToSRA7nu/QIcdRFr29x8w8rQQ==",
+      "path": "scriban/5.9.1",
+      "hashPath": "scriban.5.9.1.nupkg.sha512"
+    }
+  }
+}

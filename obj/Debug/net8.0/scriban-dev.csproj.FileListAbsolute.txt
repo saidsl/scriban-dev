@@ -1,0 +1,17 @@
+/Users/saidsalameh/Developer/scriban-dev/bin/Debug/net8.0/scriban-dev
+/Users/saidsalameh/Developer/scriban-dev/bin/Debug/net8.0/scriban-dev.deps.json
+/Users/saidsalameh/Developer/scriban-dev/bin/Debug/net8.0/scriban-dev.runtimeconfig.json
+/Users/saidsalameh/Developer/scriban-dev/bin/Debug/net8.0/scriban-dev.dll
+/Users/saidsalameh/Developer/scriban-dev/bin/Debug/net8.0/scriban-dev.pdb
+/Users/saidsalameh/Developer/scriban-dev/bin/Debug/net8.0/Scriban.dll
+/Users/saidsalameh/Developer/scriban-dev/obj/Debug/net8.0/scriban-dev.csproj.AssemblyReference.cache
+/Users/saidsalameh/Developer/scriban-dev/obj/Debug/net8.0/scriban-dev.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saidsalameh/Developer/scriban-dev/obj/Debug/net8.0/scriban-dev.AssemblyInfoInputs.cache
+/Users/saidsalameh/Developer/scriban-dev/obj/Debug/net8.0/scriban-dev.AssemblyInfo.cs
+/Users/saidsalameh/Developer/scriban-dev/obj/Debug/net8.0/scriban-dev.csproj.CoreCompileInputs.cache
+/Users/saidsalameh/Developer/scriban-dev/obj/Debug/net8.0/scriban-dev.csproj.CopyComplete
+/Users/saidsalameh/Developer/scriban-dev/obj/Debug/net8.0/scriban-dev.dll
+/Users/saidsalameh/Developer/scriban-dev/obj/Debug/net8.0/refint/scriban-dev.dll
+/Users/saidsalameh/Developer/scriban-dev/obj/Debug/net8.0/scriban-dev.pdb
+/Users/saidsalameh/Developer/scriban-dev/obj/Debug/net8.0/scriban-dev.genruntimeconfig.cache
+/Users/saidsalameh/Developer/scriban-dev/obj/Debug/net8.0/ref/scriban-dev.dll
