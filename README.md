@@ -1,14 +1,14 @@
 # Small .NET app to develop and render Scriban templates
 
-This is a small .NET console app that uses Scriban to render templates. It makes developing Scriban templates much easier and faster.
+Small .NET console app to render Scriban templates. Makes developing Scriban templates much easier and faster.
 
 ## Usage
-### Clone the repository (easy way)
+### Clone the repository
 - `git clone`
 - Run the app using `dotnet run`
 - Open the generated HTML page in the `output` directory
 
-### Create a new .NET Console App (manual way)
+### Create a new .NET Console App (manual)
 Follow the steps [below](##How-to-setup) to create a new .NET Console App and add the Scriban NuGet package to it.
 
 
@@ -36,7 +36,7 @@ Follow the steps [below](##How-to-setup) to create a new .NET Console App and ad
     └── sample.sb
 ```
 
-## How to setup
+## Setup
 
 1. Ensure you can run dotnet commands in your terminal
 - test by running `dotnet --version` in your terminal. If you get a version number, you are good to go. If not, you can install the .NET SDK from [here](https://dotnet.microsoft.com/download)
